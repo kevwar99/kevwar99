@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kevwar99
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning server management and operation
